@@ -58,16 +58,17 @@
     font-size: 19px;
 }
 
-.forgot-password{
+.forget-password{
     padding-left: 62px;
     margin-top: 27px;
     color: #797979;
     font-size: 18px;
 }
 
-.forgot-password span{
-    color: #444c009d;
+.forget-password span{
+    color: #b8c63b9d;
     cursor: pointer;
+    padding-left: 0px;
 }
 
 .submit-container{
